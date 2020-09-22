@@ -1,2 +1,3 @@
-# modulus
-A true modulus function. Swift's `%` function computes remainder, not modulus. The two operations differ when presented negative inputs. This package provides an implementation of true modulus.
+# Modulo
+An implementation of a true modulo function. Swift's `%` function computes
+remainder, not modulo. The two operations differ when presented negative inputs.
